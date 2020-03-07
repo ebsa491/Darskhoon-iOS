@@ -3,7 +3,7 @@
 //  Darskhoon
 //
 //  Created by Saman on 3/19/18.
-//  Copyright © 2018 Saman Ebrahimnezhad. All rights reserved.
+//  GNU General Public License (GPL) v3.0.
 //
 //  Choose "Create NSManagedObject Subclass…" from the Core Data editor menu
 //  to delete and recreate this implementation file for your updated model.

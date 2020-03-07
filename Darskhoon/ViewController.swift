@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Darskhoon
 //
-//  Created by Saman on 3/14/18.
-//  Copyright © 2018 Saman Ebrahimnezhad. All rights reserved.
+//  Created by Saman Ebrahimnezhad on 3/14/18.
+//  GNU General Public License (GPL) v3.0.
 //
 
 import UIKit
