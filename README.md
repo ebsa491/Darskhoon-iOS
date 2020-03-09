@@ -1,5 +1,5 @@
 # Darskhoon-iOS
-An application for learning school lessons for iOS (Swift 2) .
+Learning app for school students but will no longer update (Swift 2.2).
 
 [![Build Status](https://img.shields.io/badge/build-passing-success)](https://samebison.ir)
 [![Swift: 2.2](https://img.shields.io/badge/swift-2.2-orange)](https://developer.apple.com/swift)
