@@ -7,7 +7,7 @@ Learning app for school students but will no longer update (Swift 2.2).
 
 &#127279; GNU General Public License (GPL) v3.0 .
 
-An open source project created by Saman Ebrahimnezhad .
+The project has been developed by Saman Ebrahimnezhad .
 
 Created in Iran (IR) .
 
